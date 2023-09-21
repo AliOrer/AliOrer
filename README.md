@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliorer&label=Profile%20views&color=0e75b6&style=flat" alt="aliorer" /> </p>
 
-<p align="left"  style=" width:400 px; height: 330 px; "> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliorer" alt="aliorer" /></a> </p>
+<p align="left"  style=" width:400 px; height: 330 px; display: flex;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliorer" alt="aliorer" /></a> </p>
 
 - 🌱 I’m currently learning **JS**
 
