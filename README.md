@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MasterHead](https://www.wallpapertip.com/wmimgs/83-838381_html-code-wallpaper.jpg)
+![MasterHead](https://wallpapercave.com/wp/wp1966461.png)
+
 
 <h1 align="center">Hi 👋, I'm Ali Orer.</h1>
 <h3 align="center">A passionate frontend and backend developer from Turkey.</h3>
@@ -43,4 +44,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliorer&show_icons=true&locale=en" alt="aliorer" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliorer&" alt="aliorer" /></p>
