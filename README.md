@@ -45,3 +45,7 @@ Here are some ideas to get you started:
                       <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aliorer&show_icons=true&locale=en" alt="aliorer" /></p>
 
 
+<br><br>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
+
