@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AliOrer)](https://git.io/streak-stats)
-
 ![MasterHead](https://wallpapercave.com/wp/wp1966461.png)
 
 ### Hi there 👋
 
+            [![GitHub Streak](https://streak-stats.demolab.com/?user=AliOrer)](https://git.io/streak-stats)
 
 <h3 align="center">A passionate frontend and backend developer from Turkey.</h3>
 
