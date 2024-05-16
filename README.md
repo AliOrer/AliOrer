@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-            [![GitHub Streak](https://streak-stats.demolab.com/?user=AliOrer)](https://git.io/streak-stats)
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=AliOrer)](https://git.io/streak-stats)
 
 <h3 align="center">A passionate frontend and backend developer from Turkey.</h3>
 
