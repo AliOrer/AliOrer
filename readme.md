@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  <h3 align="center">A passionate frontend and backend developer from Turkey.</h3>
  
- [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=gruvbox-duo&border_radius=7&card_width=600&card_height=200)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=gruvbox-duo&border_radius=7&card_width=%50&card_height=200)](https://git.io/streak-stats)
  
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliorer&label=Profile%20views&color=0e75b6&style=flat" alt="aliorer" /> </p>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <br>
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aliorer&show_icons=true&locale=en" alt="aliorer" /></p>
 <br>
-                   
+ <br><br><br>                  
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AliOrer"/></a>
 </p>
