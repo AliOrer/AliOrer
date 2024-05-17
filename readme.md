@@ -50,10 +50,8 @@ Here are some ideas to get you started:
 <br>
 <br />
 &nbsp;
-&nbsp;
-
  
-<p align="center">
+<p align="left">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AliOrer"/></a>
 </p>
 
