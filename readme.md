@@ -22,8 +22,7 @@ Here are some ideas to get you started:
  <h3 align="center">A passionate frontend and backend developer from Turkey.</h3>
  
  [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=gruvbox-duo&border_radius=7&card_width=700&card_height=200)](https://git.io/streak-stats)
- git commit --date="2024-05-17 12:00" -m "Test commit" --allow-empty
-git push
+ 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliorer&label=Profile%20views&color=0e75b6&style=flat" alt="aliorer" /> </p>
 <br>
