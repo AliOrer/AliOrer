@@ -48,10 +48,9 @@ Here are some ideas to get you started:
 <br>
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aliorer&show_icons=true&locale=en" alt="aliorer" /></p>
 <br>
- <br><br><br>       
- <br>
- <br>
-
+<br />
+&nbsp;
+&nbsp;
 
  
 <p align="center">
