@@ -28,10 +28,12 @@ Here are some ideas to get you started:
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliorer" alt="aliorer" /></a> </p>
 <br>
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aliorer&show_icons=true&locale=en" alt="aliorer" /></p>
-<br>
-<br>
-- 🌱 I’m currently learning **JS**
+  <p align="bottom">
 
+<br>
+<br>
+
+- 🌱 I’m currently learning **JS**
 - 📫 How to reach me **nemetosce@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
