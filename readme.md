@@ -22,7 +22,11 @@ Here are some ideas to get you started:
  <h3 align="center">A passionate frontend and backend developer from Turkey.</h3>
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=gruvbox&border_radius=7&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=700&card_height=200)](https://git.io/streak-stats)   
- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=AliOrer1&theme=dark)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=AliOrer1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=gruvbox-duo&border_radius=7&card_width=700&card_height=200)](https://git.io/streak-stats)
+
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AliOrer&theme=gruvbox-duo&border_radius=7&card_width=700&card_height=200" alt="GitHub Streak" /></a>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliorer&label=Profile%20views&color=0e75b6&style=flat" alt="aliorer" /> </p>
 <br>
