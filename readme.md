@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <br>
 &nbsp;
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer)](https://git.io/streak-stats)
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=prussian)](https://git.io/streak-stats)
