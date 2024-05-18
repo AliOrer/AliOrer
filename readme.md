@@ -22,15 +22,15 @@ Here are some ideas to get you started:
  <h3 align="center">A passionate frontend and backend developer from Turkey.</h3>
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=gruvbox-duo&border_radius=7&card_width=800&card_height=202)](https://git.io/streak-stats)
- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AliOrer)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
  
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliorer&label=Profile%20views&color=0e75b6&style=flat" alt="aliorer" /> </p>
 <br>
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliorer" alt="aliorer" /></a> </p>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=AliOrer)](https://github.com/ryo-ma/github-profile-trophy)
-
 - 🌱 I’m currently learning **JS**
 
 - 📫 How to reach me **nemetosce@gmail.com**
