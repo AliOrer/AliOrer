@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 &nbsp;
  
 <p align="left">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AliOrer"/></a>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer)](https://git.io/streak-stats)
 </p>
 
 
