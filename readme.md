@@ -22,6 +22,7 @@ Here are some ideas to get you started:
  <h3 align="center">A passionate frontend and backend developer from Turkey.</h3>
  
  [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=gruvbox-duo&border_radius=7&card_width=800&card_height=200)](https://git.io/streak-stats)
+
  
  
 <br>
