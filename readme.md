@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/aliorer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliorer" height="30" width="40" /></a>
 </p>
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alican.orer/)
+<a href="https://www.instagram.com/alican.orer/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" height="30" />
+</a>
 
 
 
