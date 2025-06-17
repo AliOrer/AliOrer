@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
  <h3 align="center">A passionate frontend and backend developer from Turkey.</h3>
+ <h3 align="center">Her gün bir şeyler yapmaya çalışıyorum.</h3>
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=gruvbox-duo&border_radius=7&card_width=800&card_height=202)](https://git.io/streak-stats)
 <br><br>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AliOrer&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AliOrer&theme=discord)](https://github.com/ryo-ma/github-profile-trophy) 
 
 
  
@@ -33,15 +34,18 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliorer&label=Profile%20views&color=0e75b6&style=flat" alt="aliorer" /> </p>
 <br>
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliorer" alt="aliorer" /></a> </p>
-<br>
+<br> -->
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **front-end development**
 
-- 📫 How to reach me **nemetosce@gmail.com**
+- 📫 How to reach me **191005040@bakircay.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aliorer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliorer" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://www.instagram.com/alican.orer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliorer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -59,6 +63,6 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=prussian)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=prussian)](https://git.io/streak-stats) -->
 
 
