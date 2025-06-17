@@ -42,13 +42,17 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/aliorer" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliorer" height="30" width="40" />
+  <a href="https://linkedin.com/in/aliorer" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="LinkedIn" width="30" height="30" style="vertical-align: middle;" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/alican.orer/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" height="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" 
+         alt="Instagram" width="30" height="30" style="vertical-align: middle;" />
   </a>
 </p>
+
 
 
 
