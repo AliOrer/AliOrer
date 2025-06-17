@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  <h3 align="center">Her gün bir şeyler yapmaya çalışıyorum.</h3>
  
 <br>
- [![AliOrer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliOrer&show_icons=true&theme=gruvbox&border_radius=7&hide_border=false&hide_title=true)](https://github.com/AliOrer)
+ [![AliOrer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliOrer&show_icons=true&theme=gruvbox&border_radius=7&hide_title=true)](https://github.com/AliOrer)
 <br>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=gruvbox-duo&border_radius=7&card_width=800&card_height=202)](https://git.io/streak-stats) -->
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=gruvbox-duo&border_radius=7&card_width=800&card_height=202)](https://git.io/streak-stats)
 
 
 
