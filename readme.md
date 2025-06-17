@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/aliorer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliorer" height="30" width="40" /></a>
 </p>
 <span align="right">
-<a href="https://www.instagram.com/alican.orer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-in-alt.svg" alt="aliorer" height="30" width="40" /></a>
+<a href="https://www.instagram.com/alican.orer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/![image](https://github.com/user-attachments/assets/ec98ef89-5f18-4629-a6f4-88f9cb24c2b9)
+" alt="aliorer" height="30" width="40" /></a>
 </span>
 
 <h3 align="left">Languages and Tools:</h3>
