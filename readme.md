@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <br><br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=gruvbox-duo&border_radius=7&card_width=800&card_height=202)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=default_width=800&card_height=202))](https://git.io/streak-stats)
 
 <br>
 
