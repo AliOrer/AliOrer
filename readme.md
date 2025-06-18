@@ -23,11 +23,11 @@ Here are some ideas to get you started:
  <br>
  <h3 align="center">Her gün bir şeyler yapmaya çalışıyorum.</h3>
  <br>
- <!-- [![AliOrer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliOrer&show_icons=true&theme=gruvbox&border_radius=7&hide_title=true)](https://github.com/AliOrer) -->
+  [![AliOrer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliOrer&show_icons=true&theme=gruvbox&border_radius=7&hide_title=true)](https://github.com/AliOrer) 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AliOrer)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AliOrer" alt="GitHub Streak" /></a> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer)](https://git.io/streak-stats)  -->
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AliOrer"/></a>
 
