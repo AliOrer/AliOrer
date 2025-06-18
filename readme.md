@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  <br>
  <!-- [![AliOrer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliOrer&show_icons=true&theme=gruvbox&border_radius=7&hide_title=true)](https://github.com/AliOrer) -->
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=gruvbox-duo&border_radius=7&card_width=800&card_height=202)](https://git.io/streak-stats) -->
+ [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=gruvbox-duo&border_radius=7&card_width=800&card_height=202)](https://git.io/streak-stats) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=default)](https://git.io/streak-stats)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliOrer&layout=compact&theme=gruvbox&border_radius=7)](https://github.com/AliOrer)
