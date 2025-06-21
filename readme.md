@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer)](https://git.io/streak-stats)  -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AliOrer" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AliOrer"/></a>
+
+
 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliOrer&layout=compact&theme=gruvbox&border_radius=7)](https://github.com/AliOrer)
