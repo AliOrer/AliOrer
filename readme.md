@@ -24,12 +24,6 @@ Here are some ideas to get you started:
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer)](https://git.io/streak-stats)
 
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliOrer&layout=compact&theme=gruvbox&border_radius=7)](https://github.com/AliOrer)
-
-
-
-
  
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliorer&label=Profile%20views&color=0e75b6&style=flat" alt="aliorer" /> </p>
