@@ -20,21 +20,15 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
  <h3 align="center">A passionate frontend and backend developer from Turkey.</h3>
- <br>
  
-<!--   [![AliOrer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliOrer&show_icons=true&theme=gruvbox&border_radius=7&hide_title=true)](https://github.com/AliOrer) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AliOrer)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AliOrer" alt="GitHub Streak" /></a> -->
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer)](https://git.io/streak-stats)  -->
+ <br
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer)](https://git.io/streak-stats)
-
-
 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliOrer&layout=compact&theme=gruvbox&border_radius=7)](https://github.com/AliOrer)
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AliOrer&theme=discord)](https://github.com/ryo-ma/github-profile-trophy) 
+
 
 
  
@@ -74,8 +68,5 @@ Here are some ideas to get you started:
 &nbsp;
  
 
-
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer&theme=prussian)](https://git.io/streak-stats) -->
 
 
