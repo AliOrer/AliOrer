@@ -51,11 +51,13 @@ Here are some ideas to get you started:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aliorer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aliorer" /></a></p><br><br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliorer&show_icons=true&locale=en&layout=compact" alt="aliorer" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliOrer&layout=compact&theme=gruvbox&border_radius=7)](https://github.com/AliOrer)
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliorer&show_icons=true&locale=en&layout=compact" alt="aliorer" /></p> -->
 <br><br><br><br><br><p></p>
 
 &nbsp;
  
+
 
 
 
