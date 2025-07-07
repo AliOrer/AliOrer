@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
  <h3 align="center">A passionate frontend and backend developer from Turkey.</h3>
  
- <br
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=AliOrer)](https://git.io/streak-stats)
 
@@ -35,8 +34,6 @@ Here are some ideas to get you started:
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliorer&label=Profile%20views&color=0e75b6&style=flat" alt="aliorer" /> </p>
 <br>
-<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliorer" alt="aliorer" /></a> </p>
-<br> -->
 
 - 🌱 I’m currently learning **front-end development**
 
