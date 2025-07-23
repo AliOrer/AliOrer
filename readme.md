@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliorer&label=Profile%20views&color=0e75b6&style=flat" alt="aliorer" /> </p>
 <br>
 
-- 🌱 I’m currently learning **front-end development**
+- 🌱 I’m currently learning **front-end**
 
 - 📫 How to reach me **191005040@bakircay.edu.tr**
 
